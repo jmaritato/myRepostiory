@@ -1,3 +1,3 @@
 # myRepostiory
 NoDescription
-This is jsut a test repository
+This is just a test repository
